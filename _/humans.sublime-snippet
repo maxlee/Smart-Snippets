@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+# The humans responsible & technology colophon
+# humanstxt.org
+
+/* TEAM */
+
+    Front-End Engineer: Max Lee
+    Contact: htmlcssjavascript[at]gmail.com
+    Site: http://maxlee.net/
+    Location: Guangzhou, China
+
+/* THANKS */
+
+    jQuery: http://jquery.com/
+    LESS: http://lesscss.org/
+
+/* SITE */
+
+    Language: Chinese (Simplified)
+    Doctype: HTML5
+    Standards: HTML5, CSS3
+    Componetes: jQuery, LESS
+    IDE: Sublime Text2, VIM
+    Software: Photoshop
+    Source: http://maxlee.github.com/CoffeeHTML
+    Last update: 2012-05-21T12:49:26
+]]></content>
+	<tabTrigger>humans</tabTrigger>
+    <description>humans.txt</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

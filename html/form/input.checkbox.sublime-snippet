@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<input type="checkbox">
+]]></content>
+	<tabTrigger>inputc</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

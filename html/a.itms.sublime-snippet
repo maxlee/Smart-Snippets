@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="itms-apps://${1:url}">${2}</a>
+]]></content>
+	<tabTrigger>aitms</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

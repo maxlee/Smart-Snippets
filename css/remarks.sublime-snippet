@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/*!
+ * FileName   : $TM_FILENAME
+ * WebSite    : ${1}
+ * Desc       : ${2}
+ * Author     : ${3:Max}
+ * Version    : 0.0.1_beta
+ * LastChange : 
+ * */${0}
+]]></content>
+	<tabTrigger>rms</tabTrigger>
+	<description>/*! ... */</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

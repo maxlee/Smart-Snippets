@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+http://coffeehtml.com
+]]></content>
+	<tabTrigger>site</tabTrigger>
+	<description>http://maxlee.net/</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

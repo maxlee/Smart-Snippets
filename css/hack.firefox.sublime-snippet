@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@-moz-document url-prefix() {
+	${0}
+}
+]]></content>
+	<tabTrigger>hackff</tabTrigger>
+	<description>css hack for firefox</description>
+	<scope>source.css, source.scss, source.sass</scope>
+</snippet>

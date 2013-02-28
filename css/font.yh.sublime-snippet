@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font: 12px/1.5 tahoma, \5fae\8f6f\96c5\9ed1;
+]]></content>
+	<tabTrigger>fyh</tabTrigger>
+	<description>font: 12px/1.5 tahoma, \5fae\8f6f\96c5\9ed1</description>
+	<scope>source.css, source.scss, source.sass</scope>
+</snippet>

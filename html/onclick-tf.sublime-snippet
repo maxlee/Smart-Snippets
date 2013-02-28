@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+onclick=";return false;"
+]]></content>
+	<tabTrigger>ocrf</tabTrigger>
+	<description>onclick=";return false;"</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

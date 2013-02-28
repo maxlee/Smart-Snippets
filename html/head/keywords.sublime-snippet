@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<meta content="${1}" name="keywords">
+]]></content>
+	<tabTrigger>metakey</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

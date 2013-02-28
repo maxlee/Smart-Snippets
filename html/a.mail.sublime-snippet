@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="mailto:${1:htmlcssjavascript@gmial.com}?subject=${2:feedback}" title="$3">${3:email me}</a>
+]]></content>
+	<tabTrigger>amail</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

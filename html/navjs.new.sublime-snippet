@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- 引用全站通用导航{ -->
+<script src="http://assets.dwstatic.com/common/js/topnav.js"></script>
+<!-- }引用全站通用导航 -->
+]]></content>
+	<tabTrigger>topjs</tabTrigger>
+	<description>topnav.js</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

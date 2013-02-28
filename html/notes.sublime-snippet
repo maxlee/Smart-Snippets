@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- ${1:some note}{ -->
+${0}
+<!-- }$1 -->
+]]></content>
+	<tabTrigger>cccc</tabTrigger>
+	<description>&lt;!-- ? --&gt; x2</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

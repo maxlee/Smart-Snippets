@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+    __    ________________
+   / /   / ____/ ____/ __ \
+  / /   / __/ / / __/ / / /
+ / /___/ /___/ /_/ / /_/ /
+/_____/_____/\____/\____/
+]]></content>
+	<tabTrigger>lego</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://www.network-science.de/ascii/ -->

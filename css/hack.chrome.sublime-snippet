@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@media all and (-webkit-min-device-pixel-ratio:1) {
+	${0}
+}
+]]></content>
+	<tabTrigger>hackchr</tabTrigger>
+	<description>css hack for chrome</description>
+	<scope>source.css, source.scss, source.sass</scope>
+</snippet>

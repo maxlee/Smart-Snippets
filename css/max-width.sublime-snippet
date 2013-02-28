@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+max-width: ${1:0}px;
+_width: expression(document.body.clientWidth>($1-1) ? "$1px":"auto");
+]]></content>
+	<tabTrigger>maxw</tabTrigger>
+	<description>max-width</description>
+	<scope>source.css, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+height: ${1:0px}; line-height: $1; overflow: hidden;
+]]></content>
+	<tabTrigger>hlhh</tabTrigger>
+	<description>height: ?; line-height: ?; overflow: hidden</description>
+	<scope>source.css, source.scss, source.sass</scope>
+</snippet>

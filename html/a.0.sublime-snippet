@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="javascript:void(0);">${0}</a>
+]]></content>
+	<tabTrigger>a0</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

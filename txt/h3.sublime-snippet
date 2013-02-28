@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+模块标题
+]]></content>
+	<tabTrigger>th3</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

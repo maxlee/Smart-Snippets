@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Copyright &copy; 2012 ${1:MaxLee.NET}. All Rights Reserved.
+]]></content>
+	<tabTrigger>c)</tabTrigger>
+	<description>Copyright &copy; 2012 ?. All Rights Reserved.</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>
