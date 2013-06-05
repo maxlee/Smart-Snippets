@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <meta content="${1}" name="description">
 ]]></content>
-	<tabTrigger>metades</tabTrigger>
+	<tabTrigger>description</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

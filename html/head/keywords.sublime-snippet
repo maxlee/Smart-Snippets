@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <meta content="${1}" name="keywords">
 ]]></content>
-	<tabTrigger>metakey</tabTrigger>
+	<tabTrigger>keywords</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

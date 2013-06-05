@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<script src="http://assets.dwstatic.com/common/js/dww3.min.js"></script>
-]]></content>
-	<tabTrigger>dww</tabTrigger>
-	<description>dww3.min.js</description>
-	<!-- <scope>source.python</scope> -->
-</snippet>

@@ -2,6 +2,7 @@
 	<content><![CDATA[
 -webkit-border-radius: ${1:4px};
         border-radius: $1;
+${0}
 ]]></content>
 	<tabTrigger>radius</tabTrigger>
     <description>border-radius</description>

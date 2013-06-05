@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<input type="file" multiple="multiple">
+<meta name="apple-itunes-app" content="app-id=${1}">
 ]]></content>
-	<tabTrigger>inputf</tabTrigger>
+	<tabTrigger>metaappleapp</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

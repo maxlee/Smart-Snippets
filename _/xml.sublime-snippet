@@ -5,4 +5,5 @@
 	<tabTrigger>xml</tabTrigger>
 	<description>&lt;?xml version="1.0" encoding="utf-8"?&gt;</description>
 	<scope>source.xml</scope>
+	<!-- <scope>source.python</scope> -->
 </snippet>

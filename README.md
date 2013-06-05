@@ -1,8 +1,6 @@
 ## About
 LEGO Snippets in Sublime Text 2
 
-http://coffeehtml.com
-
 ## How to install
 
 1. Package Control: Add Repository `https://github.com/maxlee/LEGO-Snippets`
