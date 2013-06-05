@@ -6,5 +6,5 @@ window.addEventListener('load', function() {
 ]]></content>
 	<tabTrigger>scrollto</tabTrigger>
 	<description>ios scrollto 0</description>
-	<scope>source.js</scope>
+	<scope>source.html, source.js</scope>
 </snippet>

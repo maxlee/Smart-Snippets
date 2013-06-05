@@ -4,5 +4,5 @@ return true;
 ]]></content>
 	<tabTrigger>rt</tabTrigger>
 	<description>return true</description>
-	<scope>source.js</scope>
+	<scope>source.html, source.js</scope>
 </snippet>

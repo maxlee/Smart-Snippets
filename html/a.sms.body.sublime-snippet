@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <a href="sms:${1:13800138000}?body=${2:some text}">${3:send me a text}</a>
 ]]></content>
-	<tabTrigger>asmsbody</tabTrigger>
+	<tabTrigger>asms+</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

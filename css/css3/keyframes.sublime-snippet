@@ -23,5 +23,5 @@
 ]]></content>
 	<tabTrigger>keyframes</tabTrigger>
     <description>@keyframes</description>
-    <scope>source.css, source.scss, source.sass</scope>
+    <scope>source.css, source.scss</scope>
 </snippet>

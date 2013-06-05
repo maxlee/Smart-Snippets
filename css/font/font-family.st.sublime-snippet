@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-family: \5b8b\4f53;
+]]></content>
+	<tabTrigger>ffst</tabTrigger>
+	<description>font-family:\5b8b\4f53</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

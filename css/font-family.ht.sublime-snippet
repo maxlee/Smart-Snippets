@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font-family: \9ed1\4f53;
-]]></content>
-	<tabTrigger>ffht</tabTrigger>
-	<description>font-family: \9ed1\4f53</description>
-	<scope>source.css, source.scss, source.sass</scope>
-</snippet>

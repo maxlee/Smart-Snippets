@@ -3,6 +3,6 @@
 id="${1}"
 ]]></content>
 	<tabTrigger>id</tabTrigger>
-	<description>id="?"</description>
+	<description>id=?</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

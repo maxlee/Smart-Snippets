@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>rotate</tabTrigger>
     <description>transform: rotate</description>
-	<scope>source.css, source.scss, source.sass</scope>
+	<scope>source.css, source.scss</scope>
 </snippet>

@@ -3,6 +3,6 @@
 <div class="blank15"></div>
 ]]></content>
 	<tabTrigger>b15</tabTrigger>
-	<description>&lt;div class="blank15"&gt;&lt;/div&gt;</description>
+	<description>div.blank15</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

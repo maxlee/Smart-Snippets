@@ -4,7 +4,7 @@
 <script src="http://www.duowan.com/public/assets/sys/js/duowanFooter.js"></script>
 <!-- }引用全站通用页脚 -->
 ]]></content>
-	<tabTrigger>footjs</tabTrigger>
+	<tabTrigger>footerjs</tabTrigger>
 	<description>duowanFooter.js</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

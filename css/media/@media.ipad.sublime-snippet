@@ -8,5 +8,5 @@ and (max-device-width : 1024px) {
 ]]></content>
 	<tabTrigger>ipad</tabTrigger>
 	<description>@media ipad</description>
-	<scope>source.css, source.scss, source.sass</scope>
+	<scope>source.css, source.scss</scope>
 </snippet>

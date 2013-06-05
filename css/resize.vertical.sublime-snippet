@@ -3,6 +3,6 @@
 resize: vertical;
 ]]></content>
 	<tabTrigger>rsv</tabTrigger>
-	<description>resize: vertical</description>
-	<scope>source.css, source.scss, source.sass</scope>
+	<description>resize:vertical</description>
+	<scope>source.css, source.scss</scope>
 </snippet>

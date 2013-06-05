@@ -7,6 +7,7 @@
 /_____/_____/\____/\____/
 ]]></content>
 	<tabTrigger>lego</tabTrigger>
+	<description>LEGO Ascii</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>
 <!-- http://www.network-science.de/ascii/ -->

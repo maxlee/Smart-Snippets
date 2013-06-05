@@ -3,6 +3,6 @@
 <hr>
 ]]></content>
 	<tabTrigger>hr</tabTrigger>
-	<description>&lt;hr /&gt;</description>
+	<description>&lt;hr&gt;</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>
