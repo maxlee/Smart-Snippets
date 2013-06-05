@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <meta http-equiv="refresh" content="${1:0};url=${2}">
 ]]></content>
-	<tabTrigger>refresh</tabTrigger>
+	<tabTrigger>meta:ref</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <meta charset="${1:utf-8}">
 ]]></content>
-	<tabTrigger>charset</tabTrigger>
+	<tabTrigger>meta:char</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

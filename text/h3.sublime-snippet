@@ -2,6 +2,6 @@
 	<content><![CDATA[
 模块标题
 ]]></content>
-	<tabTrigger>th3</tabTrigger>
+	<tabTrigger>t:h3</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

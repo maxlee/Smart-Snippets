@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<meta content="${1:Max}" name="author">
-]]></content>
-	<tabTrigger>metaauthor</tabTrigger>
-	<!-- <scope>source.python</scope> -->
-</snippet>
