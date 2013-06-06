@@ -2,10 +2,15 @@
 LEGO Snippets in Sublime Text 2
 
 ## How to install
+1. Get Package Control for Sublime Text 2. Installation is through the Sublime Text 2 console. This is accessed via the ctrl+` shortcut. Once open, paste the following command into the console.
 
-1. Package Control: Add Repository `https://github.com/maxlee/LEGO-Snippets`
-2. Package Control: Install Package `LEGO Snippets`
-3. Restart ST2 editor
+```
+import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')
+```
+
+2. Package Control: Add Repository `https://github.com/maxlee/LEGO-Snippets`
+3. Package Control: Install Package `LEGO Snippets`
+4. Restart ST2 editor
 
 ### “Help! My snippets doesn’t work anymore in HTML/CSS files!”
 
