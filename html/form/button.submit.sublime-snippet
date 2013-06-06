@@ -3,5 +3,6 @@
 <button type="submit" title="$1">${1}</button>
 ]]></content>
 	<tabTrigger>buttons</tabTrigger>
+	<description>type="submit"</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

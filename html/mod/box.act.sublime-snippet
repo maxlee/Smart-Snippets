@@ -8,6 +8,6 @@
 	<a class="more" href="#">更多&raquo;</a>
 </div>
 ]]></content>
-	<tabTrigger>boxact</tabTrigger>
+	<tabTrigger>box:act</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

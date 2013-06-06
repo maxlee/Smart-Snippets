@@ -3,6 +3,6 @@
 <input type="url" value="${1}">
 ]]></content>
 	<tabTrigger>inputu</tabTrigger>
-	<description>input type="url"</description>
+	<description>type="url"</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

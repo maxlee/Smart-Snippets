@@ -5,6 +5,6 @@
 	<li><a href="#"><img alt="$1" src="http://art.yypm.com/$1"><em>中国南方将迎大范围降雨</em></a></li>
 </ul>${2}
 ]]></content>
-	<tabTrigger>modpict</tabTrigger>
+	<tabTrigger>modpic+</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

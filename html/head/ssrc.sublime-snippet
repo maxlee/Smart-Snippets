@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <script src="${1}"></script>
 ]]></content>
-	<tabTrigger>scriptsrc</tabTrigger>
+	<tabTrigger>script+</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

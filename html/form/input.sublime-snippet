@@ -3,6 +3,6 @@
 <input type="text" placeholder="${1:type whatever you want here...}">
 ]]></content>
 	<tabTrigger>input</tabTrigger>
-	<description>input type="text"</description>
+	<description>type="text"</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

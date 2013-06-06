@@ -3,5 +3,6 @@
 <input type="radio">
 ]]></content>
 	<tabTrigger>inputr</tabTrigger>
+	<description>type="radio"</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

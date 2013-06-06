@@ -3,6 +3,6 @@
 <input type="email" placeholder="${1:email address}">
 ]]></content>
 	<tabTrigger>inpute</tabTrigger>
-	<description>input type="email"</description>
+	<description>type="email"</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

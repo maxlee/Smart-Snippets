@@ -5,6 +5,6 @@
 	<a href="">链接</a>
 </span>
 ]]></content>
-	<tabTrigger>boxlinks</tabTrigger>
+	<tabTrigger>box:links</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>
