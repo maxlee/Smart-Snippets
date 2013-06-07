@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-background-color: ${1:#FFF};
+background-color: ${1:transparent};
 ]]></content>
 	<tabTrigger>bgc</tabTrigger>
 	<description>background-color</description>

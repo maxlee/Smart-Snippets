@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-max-height: ${1:0}px;
-_height: expression(this.scrollHeight>($1-1) ? "$1px":"auto");
+max-height: ${1:100%};
 ]]></content>
 	<tabTrigger>maxh</tabTrigger>
 	<description>max-height</description>

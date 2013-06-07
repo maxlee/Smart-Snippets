@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+max-height: ${1:0}px;
+_height: expression(this.scrollHeight>($1-1) ? "$1px":"auto");
+]]></content>
+	<tabTrigger>maxh+</tabTrigger>
+	<description>max-height+IE6</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

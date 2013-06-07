@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-max-width: ${1:100%};
+min-height: ${1:1px};
 ]]></content>
-	<tabTrigger>maxw</tabTrigger>
-	<description>max-width</description>
+	<tabTrigger>minh+</tabTrigger>
+	<description>min-height+IE6</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

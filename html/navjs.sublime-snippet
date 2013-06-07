@@ -4,7 +4,7 @@
 <script src="http://www.duowan.com/public/s/i/navbar/navbar.js"></script>
 <!-- }引用全站通用导航 -->
 ]]></content>
-	<tabTrigger>navjs</tabTrigger>
+	<tabTrigger>topnavjs</tabTrigger>
 	<description>navbar.js</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-border-bottom-color: ${1};
+border-bottom-color: ${1:transparent};
 ]]></content>
 	<tabTrigger>bdbc</tabTrigger>
 	<description>border-bottom-color</description>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
--webkit-text-size-adjust: none;
-]]></content>
-	<tabTrigger>tsan</tabTrigger>
-	<description>-webkit-text-size-adjust:none</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

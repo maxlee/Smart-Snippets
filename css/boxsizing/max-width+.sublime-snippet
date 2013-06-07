@@ -4,6 +4,6 @@ max-width: ${1:0}px;
 _width: expression(document.body.clientWidth>($1-1) ? "$1px":"auto");
 ]]></content>
 	<tabTrigger>maxw+</tabTrigger>
-	<description>max-width</description>
+	<description>max-width+IE6</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

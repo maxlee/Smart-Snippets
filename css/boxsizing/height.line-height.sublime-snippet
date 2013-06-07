@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-height: ${1:0px}; line-height: $1;
+height: ${1:0}; line-height: $1;
 ]]></content>
 	<tabTrigger>hl</tabTrigger>
 	<description>height line-height</description>
