@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
-		if (document.cookie.indexOf("iphone_redirect=false") == -1) {
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) \{
+		if (document.cookie.indexOf("iphone_redirect=false") == -1) \{
 			window.location = "http://";
-		}
-	}
+		\}
+	\}
 ]]></content>
 	<tabTrigger>ios</tabTrigger>
 	<description>ios location to</description>

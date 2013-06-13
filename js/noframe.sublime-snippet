@@ -1,14 +1,14 @@
 <snippet>
 	<content><![CDATA[
-try{
+try\{
 　　top.location.hostname;
-　　if (top.location.hostname != window.location.hostname) {
+　　if (top.location.hostname != window.location.hostname) \{
 　　　　top.location.href =window.location.href;
-　　}
-}
-catch(e){
+　　\}
+\}
+catch(e)\{
 　　top.location.href = window.location.href;
-}
+\}
 ]]></content>
 	<tabTrigger>noframe</tabTrigger>
 	<description>not in iframe</description>
