@@ -4,5 +4,5 @@ return false;
 ]]></content>
 	<tabTrigger>rf</tabTrigger>
 	<description>return false</description>
-	<scope>source.html, source.js</scope>
+	<!-- <scope>source.html, source.js</scope> -->
 </snippet>

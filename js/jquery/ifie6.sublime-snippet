@@ -6,5 +6,5 @@ if($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
 ]]></content>
 	<tabTrigger>$ifie6</tabTrigger>
 	<description>jQuery if ie6</description>
-	<scope>source.js</scope>
+	<!-- <scope>source.js</scope> -->
 </snippet>

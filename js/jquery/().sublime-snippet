@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>()</tabTrigger>
 	<description>(function(){})()</description>
-	<scope>source.js</scope>
+	<!-- <scope>source.js</scope> -->
 </snippet>

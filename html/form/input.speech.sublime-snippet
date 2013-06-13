@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<input type="search" autocomplete="off" x-webkit-speech x-webkit-grammar="builtin:search" onwebkitspeechchange="$(this).closest('form').submit()">
+<input type="search" autocomplete="off" x-webkit-speech x-webkit-grammar="builtin:search" onwebkitspeechchange="jQuery(this).closest('form').submit()">
 ]]></content>
 	<tabTrigger>inputs</tabTrigger>
 	<description>type="search"</description>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 $().hover(function() {
-	
+
 },function() {
 	var $this = $();
 	setTimeout(function(){$this.addClass('hide');},2000);
@@ -9,5 +9,5 @@ $().hover(function() {
 ]]></content>
 	<tabTrigger>hoversettimeout</tabTrigger>
 	<description>jQuery hover settimeout</description>
-	<scope>source.js</scope>
+	<!-- <scope>source.js</scope> -->
 </snippet>
