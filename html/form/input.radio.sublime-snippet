@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<input type="radio">
+<input type="radio" name="${1}">
 ]]></content>
 	<tabTrigger>inputr</tabTrigger>
 	<description>type="radio"</description>

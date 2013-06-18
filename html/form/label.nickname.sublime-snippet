@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label for="nickname">昵称：</label>
+<input id="nickname" name="nickname" type="text" placeholder="昵称">
+]]></content>
+	<tabTrigger>labelnickname</tabTrigger>
+	<description>label nickname</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

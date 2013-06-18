@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label for="tel">电话：</label>
+<input id="tel" name="tel" type="tel" placeholder="13800138000">
+]]></content>
+	<tabTrigger>labeltel</tabTrigger>
+	<description>label tel</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

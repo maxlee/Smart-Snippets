@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<input type="email" placeholder="${1:email address}">
+<input type="email" name="${1:email|confirm-email}" placeholder="${2:email@example.com}">
 ]]></content>
 	<tabTrigger>inpute</tabTrigger>
 	<description>type="email"</description>

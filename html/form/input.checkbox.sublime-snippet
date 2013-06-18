@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<input type="checkbox">
+<input type="checkbox" name="${1}">
 ]]></content>
 	<tabTrigger>inputc</tabTrigger>
 	<description>type="checkbox"</description>
