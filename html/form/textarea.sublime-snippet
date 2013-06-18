@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<textarea id="${1}" name="$1" cols="30" rows="5" placeholder=""></textarea>
+<textarea id="${1}" cols="30" rows="5" placeholder="${2}"></textarea>
 ]]></content>
 	<tabTrigger>textarea</tabTrigger>
 	<description>textarea</description>

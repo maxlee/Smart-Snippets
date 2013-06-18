@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button type="button" title="$1">${1}</button>
+<button type="button">${1}</button>
 ]]></content>
 	<tabTrigger>button</tabTrigger>
 	<description>type="button"</description>

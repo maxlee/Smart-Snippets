@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <label for="address">地址：</label>
-<input id="address" name="address" type="address">
+<input id="address" type="address" placeholder="地址">
 ]]></content>
 	<tabTrigger>labeladdress</tabTrigger>
 	<description>label address</description>

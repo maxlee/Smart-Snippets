@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <label for="verify-code">验证码</label>
-<input id="verify-code" name="verify-code" type="text" required>
+<input id="verify-code" type="text" required>
 ]]></content>
 	<tabTrigger>labelverifycode</tabTrigger>
 	<description>label verify-code</description>
