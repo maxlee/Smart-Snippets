@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-max-width: ${1:0}px;
-_width: expression(document.body.clientWidth>($1-1) ? "$1px":"auto");
+max-width: ${1:100}px;
+_width: expression(this.width > $1 ? $1 : true);
 ]]></content>
-	<tabTrigger>maxw+</tabTrigger>
-	<description>max-width+IE6</description>
+	<tabTrigger>maxwi</tabTrigger>
+	<description>max-width img IE6</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
