@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<input type="name" placeholder="${2:Name}">
+<input type="name" placeholder="${2:姓名}">
 ]]></content>
 	<tabTrigger>inputn</tabTrigger>
 	<description>type="name"</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<label for="verify-code">验证码</label>
+<label for="verify-code">${1:验证码：}</label>
 <input id="verify-code" type="text" required>
 ]]></content>
 	<tabTrigger>labelverifycode</tabTrigger>

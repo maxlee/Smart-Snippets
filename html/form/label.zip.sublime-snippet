@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<label for="zip">邮编：</label>
-<input id="zip" type="text" plachholder="邮政编码">
+<label for="zip">${1:邮编：}</label>
+<input id="zip" type="text" plachholder="">
 ]]></content>
 	<tabTrigger>labelzip</tabTrigger>
 	<description>label zip</description>

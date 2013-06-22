@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <label for="remember">
-	<input id="remember" type="checkbox">记住我
+	<input id="remember" type="checkbox">${1:记住我}
 </label>
 ]]></content>
 	<tabTrigger>labelremember</tabTrigger>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<label for="tel">电话：</label>
-<input id="tel" type="tel" placeholder="13800138000">
+<label for="tel">${1:电话：}</label>
+<input id="tel" type="tel" placeholder="">
 ]]></content>
 	<tabTrigger>labeltel</tabTrigger>
 	<description>label tel</description>

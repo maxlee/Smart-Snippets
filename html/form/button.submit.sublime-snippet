@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button type="submit">${1}</button>
+<button type="submit">${1:提交}</button>
 ]]></content>
 	<tabTrigger>buttons</tabTrigger>
 	<description>type="submit"</description>

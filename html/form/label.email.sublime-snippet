@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<label for="email">邮箱：</label>
-<input id="email" type="text" placeholder="邮箱">
+<label for="email">${1:邮箱：}</label>
+<input id="email" type="text" placeholder="">
 ]]></content>
 	<tabTrigger>labelemail</tabTrigger>
 	<description>label email</description>
