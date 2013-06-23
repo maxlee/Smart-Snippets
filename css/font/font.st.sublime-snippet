@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-font: 12px/1.5 tahoma, \5b8b\4f53;
+font: 12px/1.5 Tahoma, SimSun;
 ]]></content>
 	<tabTrigger>fst</tabTrigger>
-	<description>font:12px/1.5 tahoma,\5b8b\4f53</description>
+	<description>font:12px/1.5 Tahoma,SimSun</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-\5fae\8f6f\96c5\9ed1
+Microsoft YaHei
 ]]></content>
 	<tabTrigger>uyh</tabTrigger>
-	<description>\5fae\8f6f\96c5\9ed1</description>
+	<description>Microsoft YaHei</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
+<!-- TODO: \5FAE\8F6F\96C5\9ED1 -->
