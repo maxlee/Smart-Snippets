@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-background: ${1:transparent} url(${2}) no-repeat;
+background: url(${1}) no-repeat;
 ]]></content>
 	<tabTrigger>bgn</tabTrigger>
 	<description>background . no-repeat</description>
