@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<img src="${1:http://art.yypm.com/130x90}" alt="">
+class="${1}"
 ]]></content>
-	<tabTrigger>img</tabTrigger>
+	<tabTrigger>class</tabTrigger>
+	<description>class=""</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

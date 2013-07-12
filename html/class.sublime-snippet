@@ -2,7 +2,7 @@
 	<content><![CDATA[
 class="${1}"
 ]]></content>
-	<tabTrigger>class</tabTrigger>
-	<description>class=?</description>
-	<!-- <scope>source.python</scope> -->
+	<tabTrigger>.</tabTrigger>
+	<description>class=""</description>
+	<scope>source.html</scope>
 </snippet>

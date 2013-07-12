@@ -1,11 +1,12 @@
 <snippet>
 	<content><![CDATA[
 /*!
- * $Author$
- * $Revision$
- * $Date$
- * $Id$
- * */${0}
+$$Author$$
+$$Revision$$
+$$Date$$
+$$Id$$
+*/
+${0}
 ]]></content>
 	<tabTrigger>rm+</tabTrigger>
 	<description>/*! ... */</description>

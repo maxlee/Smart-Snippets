@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<!-- 引用全站通用页脚{ -->
+<!-- 全站通用页脚{ -->
 <script src="http://www.duowan.com/public/assets/sys/js/duowanFooter.js"></script>
-<!-- }引用全站通用页脚 -->
+<!-- }全站通用页脚 -->
 ]]></content>
 	<tabTrigger>footerjs</tabTrigger>
 	<description>duowanFooter.js</description>

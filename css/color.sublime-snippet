@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-color: ${1};${0}
+color: ${1};
 ]]></content>
 	<tabTrigger>c</tabTrigger>
 	<description>color</description>
