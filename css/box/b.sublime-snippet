@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-width: ${1:100%};
+bottom: ${1:0};
 ]]></content>
-	<tabTrigger>width</tabTrigger>
-	<description>width</description>
+	<tabTrigger>b</tabTrigger>
+	<description>bottom</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

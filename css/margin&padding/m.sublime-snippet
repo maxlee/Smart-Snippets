@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-clip: rect(${1:0 0 0 0});
+margin: ${1:0};
 ]]></content>
-	<tabTrigger>cpr</tabTrigger>
-	<description>clip:rect()</description>
+	<tabTrigger>margin</tabTrigger>
+	<description>margin</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

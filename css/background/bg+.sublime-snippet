@@ -2,7 +2,7 @@
 	<content><![CDATA[
 background: url(${1}) no-repeat;
 ]]></content>
-	<tabTrigger>bgn</tabTrigger>
+	<tabTrigger>bg+</tabTrigger>
 	<description>background . no-repeat</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

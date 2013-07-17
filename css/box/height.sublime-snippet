@@ -2,7 +2,7 @@
 	<content><![CDATA[
 height: ${1:0};
 ]]></content>
-	<tabTrigger>h</tabTrigger>
+	<tabTrigger>height</tabTrigger>
 	<description>height</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
