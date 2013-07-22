@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<input type="tel" placeholder="${1:13800138000}">
+<input type="tel">
 ]]></content>
 	<tabTrigger>inputt</tabTrigger>
-	<description>type="tel"</description>
+	<description>type=tel</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

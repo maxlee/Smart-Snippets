@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<fieldset>
-	${1}
-</fieldset>
+placeholder="${1}"
 ]]></content>
-	<tabTrigger>fieldset</tabTrigger>
+	<tabTrigger>ph</tabTrigger>
+	<description>placeholder</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

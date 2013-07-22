@@ -3,6 +3,6 @@
 <input type="file" multiple="multiple">
 ]]></content>
 	<tabTrigger>inputf</tabTrigger>
-	<description>type="file"</description>
+	<description>type=file</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<label for="username">${1:用户名：}</label>
-<input id="username" type="text" placeholder="">
+<div class="control-group">
+	<label for="username">${1:用户名：}</label>
+	<input id="username" type="text" placeholder="">
+</div>
 ]]></content>
 	<tabTrigger>labelusername</tabTrigger>
 	<description>label username</description>

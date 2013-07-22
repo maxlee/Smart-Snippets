@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <fieldset>
-	<legend>${1}</legend>
-	${2}
+	${1}
 </fieldset>
 ]]></content>
-	<tabTrigger>fieldset+</tabTrigger>
+	<tabTrigger>fd</tabTrigger>
+	<description>fieldset</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -3,6 +3,6 @@
 <button type="submit">${1:提交}</button>
 ]]></content>
 	<tabTrigger>buttons</tabTrigger>
-	<description>type="submit"</description>
+	<description>type=submit</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

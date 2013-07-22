@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<label for="email">${1:邮箱：}</label>
-<input id="email" type="text" placeholder="">
+<div class="control-group">
+	<label for="email">${1:邮箱：}</label>
+	<input id="email" type="text" placeholder="">
+</div>
 ]]></content>
 	<tabTrigger>labelemail</tabTrigger>
 	<description>label email</description>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<input type="name" placeholder="${2:姓名}">
+<input type="name">
 ]]></content>
 	<tabTrigger>inputn</tabTrigger>
-	<description>type="name"</description>
+	<description>type=name</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

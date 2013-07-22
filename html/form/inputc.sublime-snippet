@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<input type="checkbox" name="${1}">
+<input type="checkbox" name="">
 ]]></content>
 	<tabTrigger>inputc</tabTrigger>
-	<description>type="checkbox"</description>
+	<description>type=checkbox</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>
