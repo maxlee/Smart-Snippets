@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="control-group">
+<div class="form-group">
 	<label for="address">${1:地址：}</label>
 	<input id="address" type="address" placeholder="">
 </div>

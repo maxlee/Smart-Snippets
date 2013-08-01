@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="control-group">
+<div class="form-group">
 	<label for="email">${1:邮箱：}</label>
 	<input id="email" type="text" placeholder="">
 </div>

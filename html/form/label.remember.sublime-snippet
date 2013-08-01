@@ -1,8 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<label for="remember">
-	<input id="remember" type="checkbox">${1:记住我}
-</label>
+<div class="form-action">
+	<label for="remember" class="remeber">
+		<input id="remember" type="checkbox">${1:记住我}
+	</label>
+</div>
 ]]></content>
 	<tabTrigger>labelremember</tabTrigger>
 	<description>label remember</description>
