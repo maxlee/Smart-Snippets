@@ -3,6 +3,6 @@
 background: url(${1}) repeat-y ${2:0 0};
 ]]></content>
 	<tabTrigger>bgy</tabTrigger>
-	<description>background . repeat-y</description>
+	<description>background repeat-y</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

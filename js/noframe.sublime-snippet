@@ -12,5 +12,5 @@ catch(e)\{
 ]]></content>
 	<tabTrigger>noframe</tabTrigger>
 	<description>not in iframe</description>
-	<!-- <scope>source.html, source.js</scope> -->
+	<!-- <scope>source.js, source.html</scope> -->
 </snippet>

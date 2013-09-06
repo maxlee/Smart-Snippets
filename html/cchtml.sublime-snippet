@@ -5,7 +5,6 @@
 <!--[if IE 8]><html class="no-js ie8"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
 ]]></content>
-	<tabTrigger>htmlccie</tabTrigger>
-	<description>html ie notes</description>
+	<tabTrigger>cchtml</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

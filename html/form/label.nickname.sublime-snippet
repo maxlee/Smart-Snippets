@@ -3,7 +3,7 @@
 <label for="nickname">${1:昵称：}</label>
 <input id="nickname" type="text" placeholder="">
 ]]></content>
-	<tabTrigger>labelnickname</tabTrigger>
+	<tabTrigger>nickname+</tabTrigger>
 	<description>label nickname</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

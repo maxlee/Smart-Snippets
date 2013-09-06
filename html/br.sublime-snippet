@@ -3,6 +3,6 @@
 <br>
 ]]></content>
 	<tabTrigger>br</tabTrigger>
-	<description>&lt;br&gt;</description>
+	<description>br element</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

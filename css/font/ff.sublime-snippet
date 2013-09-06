@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-font-family: ${1};
+font-family: ${0};
 ]]></content>
 	<tabTrigger>ff</tabTrigger>
 	<description>font-family</description>

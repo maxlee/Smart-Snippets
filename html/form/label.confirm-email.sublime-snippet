@@ -3,7 +3,7 @@
 <label for="confirm-email">${1:确认邮箱：}</label>
 <input id="confirm-email" type="text" placeholder="">
 ]]></content>
-	<tabTrigger>labelconfirm-email</tabTrigger>
+	<tabTrigger>confirmemail</tabTrigger>
 	<description>label confirm-email</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -3,7 +3,7 @@
 <label for="tel">${1:电话：}</label>
 <input id="tel" type="tel" placeholder="">
 ]]></content>
-	<tabTrigger>labeltel</tabTrigger>
+	<tabTrigger>tel+</tabTrigger>
 	<description>label tel</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

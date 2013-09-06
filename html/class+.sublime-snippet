@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-class="${1}"
+class="${0}"
 ]]></content>
 	<tabTrigger>class</tabTrigger>
 	<description>class=""</description>

@@ -6,7 +6,7 @@
 	</label>
 </div>
 ]]></content>
-	<tabTrigger>labelremember</tabTrigger>
+	<tabTrigger>remember+</tabTrigger>
 	<description>label remember</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

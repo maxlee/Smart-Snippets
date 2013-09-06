@@ -3,6 +3,6 @@
 <time datetime="${1}">${0}</time>
 ]]></content>
 	<tabTrigger>time</tabTrigger>
-	<description>&lt;time&gt;?&lt;/time&gt;</description>
+	<description>time element</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

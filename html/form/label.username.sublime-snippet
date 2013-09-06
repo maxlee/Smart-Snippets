@@ -1,11 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<div class="form-group">
-	<label for="username">${1:用户名：}</label>
-	<input id="username" type="text" placeholder="">
-</div>
+<label for="username">${1:用户名：}</label>
+<input id="username" type="text" placeholder="">
 ]]></content>
-	<tabTrigger>labelusername</tabTrigger>
+	<tabTrigger>username+</tabTrigger>
 	<description>label username</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

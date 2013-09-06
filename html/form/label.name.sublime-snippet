@@ -3,7 +3,7 @@
 <label for="name">${1:姓名：}</label>
 <input id="name" type="text" placeholder="">
 ]]></content>
-	<tabTrigger>labelname</tabTrigger>
+	<tabTrigger>name+</tabTrigger>
 	<description>label name</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

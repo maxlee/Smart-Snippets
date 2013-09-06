@@ -26,6 +26,6 @@ console.log('The DOM may not be ready');
 ]]></content>
 	<tabTrigger>iife</tabTrigger>
 	<description>IIFE</description>
-	<!-- <scope>source.html, source.js</scope> -->
+	<!-- <scope>source.js, source.html</scope> -->
 </snippet>
 <!-- http://gregfranko.com/blog/i-love-my-iife/ -->

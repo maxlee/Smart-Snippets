@@ -3,6 +3,6 @@
 <b>${0}</b>
 ]]></content>
 	<tabTrigger>bb</tabTrigger>
-	<description>&lt;b&gt;?&lt;/b&gt;</description>
+	<description>b element</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

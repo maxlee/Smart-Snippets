@@ -8,5 +8,5 @@ if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)
 ]]></content>
 	<tabTrigger>ios</tabTrigger>
 	<description>ios location to</description>
-	<!-- <scope>source.html, source.js</scope> -->
+	<!-- <scope>source.js, source.html</scope> -->
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<hr>
+<strong>${0}</strong>
 ]]></content>
-	<tabTrigger>hr</tabTrigger>
-	<description>hr element</description>
+	<tabTrigger>st</tabTrigger>
+	<description>strong element</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

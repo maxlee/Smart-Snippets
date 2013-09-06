@@ -6,7 +6,7 @@
 	<option value="female">女</option>
 </select>
 ]]></content>
-	<tabTrigger>labelgender</tabTrigger>
+	<tabTrigger>gender+</tabTrigger>
 	<description>label gender</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

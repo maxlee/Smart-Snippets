@@ -2,7 +2,7 @@
 	<content><![CDATA[
 id="${1}"
 ]]></content>
-	<tabTrigger>id</tabTrigger>
+	<tabTrigger>#</tabTrigger>
 	<description>id=""</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

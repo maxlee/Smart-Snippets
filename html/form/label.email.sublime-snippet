@@ -1,11 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<div class="form-group">
-	<label for="email">${1:邮箱：}</label>
-	<input id="email" type="text" placeholder="">
-</div>
+<label for="email">${1:邮箱：}</label>
+<input id="email" type="text" placeholder="">
 ]]></content>
-	<tabTrigger>labelemail</tabTrigger>
+	<tabTrigger>email+</tabTrigger>
 	<description>label email</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

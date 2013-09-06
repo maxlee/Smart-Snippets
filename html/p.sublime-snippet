@@ -3,5 +3,6 @@
 <p>${0}</p>
 ]]></content>
 	<tabTrigger>pp</tabTrigger>
+    <description>p element</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>
