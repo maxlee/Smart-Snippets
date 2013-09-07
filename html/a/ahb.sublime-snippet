@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <a onfocus="this.blur();" hidefocus="true" href="javascript:history.back();" title="$1">${1:返回}</a>
 ]]></content>
-	<tabTrigger>ahistoryback</tabTrigger>
+	<tabTrigger>ahb</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>

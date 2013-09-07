@@ -2,13 +2,13 @@
 	<content><![CDATA[
 <!-- $1{ -->
 <div class="box">
-	<div class="box-hd">
-		<h3 class="title">${1}</h3>
+	<div class="hd">
+		<h3>${1}</h3>
 		<div class="act">
 			<a class="more" href="#">更多&raquo;</a>
 		</div>
 	</div>
-	<div class="box-bd">
+	<div class="bd">
 		${0}
 	</div>
 </div>

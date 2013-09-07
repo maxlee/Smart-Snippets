@@ -14,7 +14,7 @@
 </select>
 <span>日</span>
 ]]></content>
-	<tabTrigger>labelbirthdate</tabTrigger>
+	<tabTrigger>birthdate+</tabTrigger>
 	<description>label birthdate</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

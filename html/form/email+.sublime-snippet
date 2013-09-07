@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 <label for="email">${1:邮箱：}</label>
-<input id="email" type="text" placeholder="">
+<input id="email" type="text" placeholder="${2}">
 ]]></content>
 	<tabTrigger>email+</tabTrigger>
-	<description>label email</description>
+	<description>label+email</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

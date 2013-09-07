@@ -4,6 +4,6 @@
 <input id="zip" type="text" plachholder="">
 ]]></content>
 	<tabTrigger>zip+</tabTrigger>
-	<description>input zip group</description>
+	<description>input+zip</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

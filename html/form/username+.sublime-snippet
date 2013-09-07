@@ -4,6 +4,6 @@
 <input id="username" type="text" placeholder="">
 ]]></content>
 	<tabTrigger>username+</tabTrigger>
-	<description>label username</description>
+	<description>label+username</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>
