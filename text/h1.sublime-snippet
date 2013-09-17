@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-这里是主标题
-]]></content>
-	<tabTrigger>t:h1</tabTrigger>
-	<!-- <scope>source.python</scope> -->
-</snippet>

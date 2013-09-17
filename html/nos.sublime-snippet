@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
-模块标题
+<noscript>
+	${0}
+</noscript>
 ]]></content>
-	<tabTrigger>t:h3</tabTrigger>
+	<tabTrigger>nos</tabTrigger>
 	<!-- <scope>source.python</scope> -->
 </snippet>
