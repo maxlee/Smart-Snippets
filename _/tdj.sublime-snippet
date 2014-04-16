@@ -2,7 +2,7 @@
 	<content><![CDATA[
 // TODO: ${1:something}
 ]]></content>
-	<tabTrigger>todoj</tabTrigger>
+	<tabTrigger>tdj</tabTrigger>
 	<description>// TODO: ?</description>
 	<!-- <scope>source.python</scope> -->
 </snippet>

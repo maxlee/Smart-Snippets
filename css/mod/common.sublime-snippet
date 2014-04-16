@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@import url(http://assets.dwstatic.com/f=lego/1.0.0/css/common.css);
-]]></content>
-	<tabTrigger>common</tabTrigger>
-	<description>LEGO common.css</description>
-	<scope>source.css, source.scss</scope>
-</snippet>
