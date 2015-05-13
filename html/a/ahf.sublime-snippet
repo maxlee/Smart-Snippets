@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="#" title="" hidefocus="true">${0}</a>
-]]></content>
-	<tabTrigger>ahf</tabTrigger>
-	<!-- <scope>source.python</scope> -->
-</snippet>

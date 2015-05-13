@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<!--[if !IE]><!-->${0}<!--<![endif]-->
-]]></content>
-	<tabTrigger>ccnoie</tabTrigger>
-	<!-- <scope>source.python</scope> -->
-</snippet>

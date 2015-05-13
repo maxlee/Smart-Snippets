@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-&raquo;
-]]></content>
-	<tabTrigger>u>></tabTrigger>
-	<!-- <scope>source.python</scope> -->
-</snippet>
