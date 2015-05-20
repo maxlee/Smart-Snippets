@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Smart-snippets by maxlee</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Smart-snippets</h1>
+      <h2 class="project-tagline">Smart Snippets for Sublime Text</h2>
+      <a href="https://github.com/maxlee/Smart-Snippets" class="btn">View on GitHub</a>
+      <a href="https://github.com/maxlee/Smart-Snippets/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/maxlee/Smart-Snippets/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h2>
+<a id="smart-snippets-for-sublime-text-23" class="anchor" href="#smart-snippets-for-sublime-text-23" aria-hidden="true"><span class="octicon octicon-link"></span></a>Smart Snippets for Sublime Text 2/3</h2>
+
+<h3>
+<a id="installation-on-sublime-text-2-and-sublime-text-3" class="anchor" href="#installation-on-sublime-text-2-and-sublime-text-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation on Sublime Text 2 and Sublime Text 3</h3>
+
+<h4>
+<a id="maclinux-instructions" class="anchor" href="#maclinux-instructions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mac/Linux Instructions</h4>
+
+<ol>
+<li>
+<p>CD into Sublime Text packages folder</p>
+
+<p><code>cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages</code></p>
+
+<p>or</p>
+
+<p><code>cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages</code></p>
+</li>
+<li><p>Clone repository into packages folder</p></li>
+</ol>
+
+<p><code>git clone https://github.com/maxlee/Smart-Snippets.git</code></p>
+
+<h4>
+<a id="windows-instructions" class="anchor" href="#windows-instructions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Windows Instructions</h4>
+
+<p><code>cd "%AppData%\Sublime Text 3\Packages\User"</code>
+<code>git clone https://github.com/maxlee/Smart-Snippets.git</code></p>
+
+<h3>
+<a id="installation-on-package-control" class="anchor" href="#installation-on-package-control" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation on Package Control</h3>
+
+<h4>
+<a id="how-to-install-package-control" class="anchor" href="#how-to-install-package-control" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://sublime.wbond.net/installation">How to install Package Control</a>
+</h4>
+
+<p>Get Package Control for Sublime Text 2/3. Installation is through the Sublime Text 2/3 console. The console is accessed via the ctrl+` shortcut or the View &gt; Show Console menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console.</p>
+
+<h5>
+<a id="sublime-text-2" class="anchor" href="#sublime-text-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>SUBLIME TEXT 2</h5>
+
+<pre><code>import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')
+</code></pre>
+
+<h5>
+<a id="sublime-text-3" class="anchor" href="#sublime-text-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>SUBLIME TEXT 3</h5>
+
+<pre><code>import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+</code></pre>
+
+<ol>
+<li>Package Control: Add Repository <code>https://github.com/maxlee/Smart-Snippets</code>
+</li>
+<li>Package Control: Install Package <code>Smart Snippets</code>
+</li>
+<li>Restart ST2/3 editor</li>
+</ol>
+
+<h3>
+<a id="help-my-snippets-doesnt-work-anymore-in-htmlcss-files" class="anchor" href="#help-my-snippets-doesnt-work-anymore-in-htmlcss-files" aria-hidden="true"><span class="octicon octicon-link"></span></a>“Help! My snippets doesn’t work anymore in HTML/CSS files!”</h3>
+
+<p>By default, Emmet overrides Tab key behaviour and expands its own abbreviations instead native snippets. You can either disable this feature in user preferences (add <code>"disable_tab_abbreviations": true</code> setting into your <em>Settings — User</em> file) and use <code>Ctrl+E</code> or <code>Ctrl+Alt+Enter</code> to expand Emmet abbeviations or move your snippets to Emmet as described <a href="https://github.com/sergeche/emmet-sublime/issues/16#issuecomment-8427268">here</a>. I’m investigating possibility to expand native snippets via Emmet Tab key handler.</p>
+
+<h3>
+<a id="thank-you-for-installing-smart-snippets-enjoy-coding" class="anchor" href="#thank-you-for-installing-smart-snippets-enjoy-coding" aria-hidden="true"><span class="octicon octicon-link"></span></a>Thank you for installing Smart Snippets. Enjoy coding!</h3>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/maxlee/Smart-Snippets">Smart-snippets</a> is maintained by <a href="https://github.com/maxlee">maxlee</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
+
