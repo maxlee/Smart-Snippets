@@ -51,7 +51,7 @@ By default, Emmet overrides Tab key behaviour and expands its own abbreviations 
 ### APIs
 
 Trigger          | Property
-:--------------- | :-----------:
+:--------------- | :-----------
 html + tab       | HTML Default Template
 aitms + tab      | a href=itms-apps://
 bgc + tab        | background-color:
