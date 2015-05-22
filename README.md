@@ -47,3 +47,25 @@ By default, Emmet overrides Tab key behaviour and expands its own abbreviations 
 ### Thank you for installing Smart Snippets. Enjoy coding!
 ![DemoCSSVideo](https://raw.githubusercontent.com/maxlee/Smart-Snippets/gh-pages/img/css.gif)
 ![DemoHTMLVideo](https://raw.githubusercontent.com/maxlee/Smart-Snippets/gh-pages/img/html.gif)
+
+### APIs
+
+Trigger          | Property
+:--------------- | :-----------:
+html + tab       | HTML Default Template
+aitms + tab      | a href=itms-apps://
+bgc + tab        | background-color:
+bd + tab         | border: ${1:1px} dotted ${2:transparent}
+bd- + tab        | border: ${1:1px} dashed ${2:transparent}
+bd. + tab        | border: ${1:1px} dotted ${2:transparent}
+bdn + tab        | border: 0 none
+! + tab          | !important
+cur + tab        | cursor: pointer
+f + tab          | font: 12px/1.5 Tahoma, sans-serif
+ffyh + tab       | font-family: "Microsoft YaHei"
+ext + tab        | @extend
+inc + tab        | @include
+mix + tab        | @mixin
+imp + tab        | @import "${1}"
+
+
