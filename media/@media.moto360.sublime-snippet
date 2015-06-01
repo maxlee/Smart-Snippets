@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-@media screen and (orientation:landscape) {
-    ${1:/* Landscape styles */}
+@media (max-device-width: 218px) and (max-device-height: 281px) {
+    ${1}
 }
 ]]></content>
-	<tabTrigger>landscape</tabTrigger>
-	<description>@media landscape</description>
+	<tabTrigger>moto360</tabTrigger>
+	<description>@media moto360</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
 <!-- TODO: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ -->

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+    ${1}
+}
+]]></content>
+	<tabTrigger>iphone6p</tabTrigger>
+	<description>@media iphone6plus</description>
+	<scope>source.css, source.scss</scope>
+</snippet>
+<!-- TODO: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ -->

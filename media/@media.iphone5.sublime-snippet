@@ -1,10 +1,11 @@
 <snippet>
 	<content><![CDATA[
-@media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-	${1:/* iPhone 5 or iPod Touch 5th generation styles */}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-device-pixel-ratio: 2) {
+    ${1}
 }
 ]]></content>
 	<tabTrigger>iphone5</tabTrigger>
 	<description>@media iphone5</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
+<!-- TODO: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ -->

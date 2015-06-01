@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-@media screen and (orientation:landscape) {
-    ${1:/* Landscape styles */}
+@media (max-device-width: 42mm) and (min-device-width: 38mm) {
+    ${1}
 }
 ]]></content>
-	<tabTrigger>landscape</tabTrigger>
-	<description>@media landscape</description>
+	<tabTrigger>applewatch</tabTrigger>
+	<description>@media apple watch</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
 <!-- TODO: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ -->

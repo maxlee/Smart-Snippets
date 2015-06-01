@@ -15,3 +15,4 @@ only screen and (                min-resolution: 2dppx) {
 	<description>@media retina</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
+<!-- TODO: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ -->

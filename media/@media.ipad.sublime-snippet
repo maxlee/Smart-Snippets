@@ -10,3 +10,4 @@ and (max-device-width : 1024px) {
 	<description>@media ipad</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
+<!-- TODO: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ -->
