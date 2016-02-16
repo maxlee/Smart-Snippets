@@ -1,8 +1,25 @@
 <snippet>
 	<content><![CDATA[
-(function( ${1:yyued} ) \{
+(function( ${1:YY} ) \{
 
-    ${2://code}
+	'use strict';
+	
+	var private = 'private';
+	$1.public   = 'public';
+
+	$1.go = function() {
+
+		console.log( private + $1.public );
+
+		${2://code}
+
+	};
+
+	// 初始化
+	$1.init = function() {
+		this.go();
+	};
+	$1.init();
 
 \}( window.$1 = window.$1 || \{\} ));
 ]]></content>
