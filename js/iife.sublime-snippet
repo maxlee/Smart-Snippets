@@ -4,12 +4,12 @@
 
 	'use strict';
 	
-	var private = 'private';
-	$1.public   = 'public';
+	var a = 'private';
+	$1.b   = 'public';
 
 	$1.go = function() {
 
-		console.log( private + $1.public );
+		console.log( a +' '+ $1.b );
 
 		${2://code}
 
