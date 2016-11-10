@@ -1,14 +1,18 @@
 <snippet>
 	<content><![CDATA[
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-cmn-Hans">
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="renderer" content="webkit">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>${1}</title>
-	<link rel="stylesheet" href="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title> </title>
+    <meta name="description" content="">
+    <link rel="stylesheet" href="">
 </head>
 <body>
 	${0}
