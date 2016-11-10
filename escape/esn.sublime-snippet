@@ -1,8 +1,7 @@
 <snippet>
 	<content><![CDATA[
-&amp;
+&nbsp;
 ]]></content>
-	<tabTrigger>ua</tabTrigger>
-	<description>&amp;</description>
+	<tabTrigger>esn</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

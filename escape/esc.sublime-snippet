@@ -2,7 +2,7 @@
 	<content><![CDATA[
 &copy;
 ]]></content>
-	<tabTrigger>uc</tabTrigger>
+	<tabTrigger>esc</tabTrigger>
 	<description>c)</description>
 	<scope>text.html</scope>
 </snippet>

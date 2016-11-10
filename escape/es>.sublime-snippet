@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
-&reg;
+&gt;
 ]]></content>
-	<tabTrigger>ur</tabTrigger>
+	<tabTrigger>es></tabTrigger>
+	<description>&gt;</description>
 	<scope>text.html</scope>
 </snippet>

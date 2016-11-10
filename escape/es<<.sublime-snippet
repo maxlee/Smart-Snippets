@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-&yen;
+&laquo;
 ]]></content>
-	<tabTrigger>uy</tabTrigger>
+	<tabTrigger>u<<</tabTrigger>
 	<scope>text.html</scope>
 </snippet>
