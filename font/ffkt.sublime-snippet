@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+font-family: Baskerville, Georgia, "Liberation Serif", "Kaiti SC", STKaiti, "AR PL UKai CN", "AR PL UKai HK", "AR PL UKai TW", "AR PL UKai TW MBE", "AR PL KaitiM GB", KaiTi, KaiTi_GB2312, DFKai-SB, "TW\-Kai", serif;
+]]></content>
+	<tabTrigger>ffkt</tabTrigger>
+	<description>font-family KaiTi</description>
+	<scope>source.css, source.scss</scope>
+</snippet>
+<!-- TODO: https://github.com/zenozeng/fonts.css -->
