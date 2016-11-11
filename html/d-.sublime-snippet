@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+data-${0:role}="${1}"
+]]></content>
+	<tabTrigger>d-</tabTrigger>
+	<description>data-role=""</description>
+	<scope>text.html</scope>
+</snippet>
